@@ -1,10 +1,10 @@
 {
-	"color_scheme": "Packages/Agila Theme/Markdown/Monokai Markdown.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/bashling.tmTheme",
 	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"tab_size": 2,
-	"theme": "Agila Neon.sublime-theme"
+	"theme": "Seti.sublime-theme"
 }
