@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Color Convert",
+		"Color Highlight",
+		"ColorPicker",
+		"ColorSchemeEditor",
+		"Colorsublime",
+		"DiffTabs",
+		"Diffy",
+		"Emmet",
+		"GitHub Flavored Markdown Preview",
+		"Google Spell Check",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"Sass",
+		"SasSubmit",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Themr"
+	]
+}
